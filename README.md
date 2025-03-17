@@ -1,2 +1,2 @@
 # Git-styding
-Studing GitHub for the first time 
+six months to do it 
